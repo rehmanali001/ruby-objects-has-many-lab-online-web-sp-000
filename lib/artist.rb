@@ -3,5 +3,9 @@ class Artist
   
   def initialize(name)
     @name = name 
-  end 
+  end
+  
+  def add_song
+  
+end
 end
