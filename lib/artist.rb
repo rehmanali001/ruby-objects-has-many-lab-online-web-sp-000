@@ -11,5 +11,5 @@ class Artist
   
   def add_sogn_by_name
   
-end
+  end
 end
