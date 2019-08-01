@@ -7,5 +7,5 @@ class Artist
   
   def add_song
   
-end
+  end 
 end
